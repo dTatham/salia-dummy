@@ -1,0 +1,7 @@
+{
+  "name": "salia-dummy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
